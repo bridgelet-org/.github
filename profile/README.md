@@ -39,7 +39,7 @@ It's built for mass payment scenarios: payroll, aid disbursements, airdrops, and
 
 ## Status
 
-🚧 **Early Development** — building core primitives. Current phase: MVP implementation.
+🚧 **Early Development** building core primitives. Current phase: MVP implementation (Testnet).
 
 Check out the [Public Roadmap](https://github.com/bridgelet-org/bridgelet/blob/main/ROADMAP.md) for what's next.
 
