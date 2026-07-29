@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://bridgelet.vercel.app/logo.png" alt="Bridgelet" width="120" />
-
 # Bridgelet
 
 **Ephemeral accounts for onboarding non-crypto users into Stellar**
